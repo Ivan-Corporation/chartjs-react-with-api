@@ -1,0 +1,32 @@
+.App {
+	text-align: center;
+
+}
+
+.charts {
+	background-color: #33333324;
+	margin: 0px 50px;
+	padding: 100px 50px;
+	border-radius: 10px
+}
+
+@media (max-width: 768px) {
+	.charts {
+		background-color: #33333324;
+		margin: 0px 10px;
+		padding: 10px 20px;
+		border-radius: 10px
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+		color-scheme: dark;
+
+	}
+
+	body {
+		background: linear-gradient(#4faaff, #e9e9e9) no-repeat;
+		height: 98vh;
+	}
+}
