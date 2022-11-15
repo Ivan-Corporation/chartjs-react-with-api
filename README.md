@@ -1,5 +1,9 @@
 <div align='center'> 
 <h1>ChartJS React with API</h1>
+
+Activate temporary access for data from api
+https://cors-anywhere.herokuapp.com/corsdemo
+
 <h5>Charts JS examples with coinranking API 🥧 (BarChart, DoughnutChart, LineChart, PieChart)</h5>
 
 <img src='./1.png'/>
